@@ -1,0 +1,25 @@
+
+
+Version:	3.14
+CmdLine:	D:\StudyJava\BookStore\dist\BookStore.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\StudyJava\BookStore\dist\.
+Java min ver:	1.000.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Check:		SOFTWARE\JavaSoft\JRE\10.0.2
+Check launcher:	C:\Program Files\Java\jre-10.0.2\bin\javaw.exe (OK)
+Match:		1.010.000_002
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\15.0.1
+Check launcher:	D:\Java\bin\javaw.exe (OK)
+Match:		1.015.000_001
+Runtime used:	1.015.000_001 (64-bit)
+Launcher:	D:\Java\bin\javaw.exe
+Launcher args:	-jar "D:\StudyJava\BookStore\dist\BookStore.exe"
+Args length:	48/32768 chars
+Exit code:	0
